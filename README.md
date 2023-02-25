@@ -1,0 +1,2 @@
+# TextRepo
+Test Amaçlıdır
